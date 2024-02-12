@@ -4,5 +4,5 @@
 
   <title><?php echo htmlspecialchars($page_title); ?> - INFO 2300</title>
 
-  <link rel="stylesheet" type="text/css" href="styles/site.css">
+  <link rel="stylesheet" type="text/css" href="/public/styles/site.css">
 </head>

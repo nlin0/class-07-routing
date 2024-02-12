@@ -25,7 +25,7 @@ $nav_flowershop_class = 'active_page';
 
       <p>Our premium quality flowers are the best in Ithaca. See the quality yourself! Use the form below to request a <em>free</em> sample bouquet of roses, daisies, or gardenias.</p>
 
-      <form method="post" action="flowershop-confirmation.php" novalidate>
+      <form method="post" action="/flowershop/confirmation" novalidate>
 
         <div class="label-input">
           <label for="name_field">Business Name:</label>
