@@ -22,7 +22,12 @@ set_exception_handler(function ($ex) {
 });
 
 const ROUTES = array(
-  '/'                             => 'pages/home.php'
+  '/'                             => 'pages/home.php',
+  '/citations'                    => 'pages/citations.php',
+  '/classes'                      => 'pages/cooking-classes.php',
+  '/classes-confirm'              => 'pages/cooking-confirmation.php',
+  '/flowers'                      => 'pages/flowershop.php',
+  '/flowers-confirm'              => 'pages/cooking-confirmation.php',
 );
 
 function match_static($uri)

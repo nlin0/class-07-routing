@@ -24,7 +24,7 @@ $nav_flowershop_class = '';
     <p>Use the following flow chart to determine how to cite a resource:</p>
 
     <picture>
-      <img alt="If you created the resource, cite yourself in a comment near the resource. Otherwise, cite the source on-screen near the resource" src="images/citation-flow.svg">
+      <img alt="If you created the resource, cite yourself in a comment near the resource. Otherwise, cite the source on-screen near the resource" src="public/images/citation-flow.svg">
     </picture>
     <cite>Source: INFO 2300 Syllabus</cite>
 
